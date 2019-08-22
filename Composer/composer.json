@@ -1,0 +1,15 @@
+{
+    "name": "israel.custodio/composer",
+    "description": "Aula sobre o uso do composer com o PHP 7.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Israel Custódio",
+            "email": "israelbianca@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.0.*"
+    }
+}

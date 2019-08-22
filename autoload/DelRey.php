@@ -1,7 +1,9 @@
 <?php 
 
-class DelRey extends Automovel {
-	public function empurrar() {
+class DelRey extends Automovel
+{
+	public function empurrar()
+	{
 
 	}
 }
